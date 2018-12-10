@@ -539,4 +539,4 @@ var prefix = "$"
     });
 	
 
-client.login('NTE5NTA4MzUzNDc1NTQzMDQx.DvAFdQ.8yeCL-I1tfg7_FverZmcL-Y7Eu8');
+client.login('process.env.TOKEN');
